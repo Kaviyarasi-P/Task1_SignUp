@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'poppins' , sans-serif;
+}
+body{
+	background-color: #ADD8E6;
+}
+.forms{
+	padding: 20px 20px;
+	background-color: #FAF2C3;
+	position: absolute;
+	width: 600px;
+	top: 40%;
+	left: 30%;
+}
+
+.forms div{
+	margin: 10px 10px;
+}
+.forms h1{
+	text-align: center;
+}
+
+.forms label{
+	text-align: left;
+}
+
+.forms input{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 15px 0;
+	border: none;
+	box-sizing: border-box;
+
+}
